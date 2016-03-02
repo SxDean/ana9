@@ -6,10 +6,10 @@ session_start();
 date_default_timezone_set('Europe/London');
 
 //database credentials
-define('DBHOST','sql8.pcextreme.nl');
-define('DBUSER','60051gm');
-define('DBPASS','Awdp28gg');
-define('DBNAME','60051gm');
+define('DBHOST','');
+define('DBUSER','');
+define('DBPASS','');
+define('DBNAME','');
 
 //application address
 define('DIR','http://castlestreams.limey.nl/');
